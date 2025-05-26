@@ -1,0 +1,8 @@
+mport tkinter as tk
+root=tk.Tk()
+root.title('oxxo.stdio')
+root.geometry('300x300')
+
+mylabel=tk.Label(root,text='U12127102 王宇揚')
+mylabel.pack()
+root.mainloop()
